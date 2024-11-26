@@ -55,11 +55,12 @@ Figure -02 HALF Subtractor
  
  HALF ADDER
 ```
-module hello (w,x,y,z,f2);
-input w,x,y,z;
-output f2;
-assign f2=((~y&z)|(w&y)|(x&y));
-endmodule
+module bye(a,b,sum,carry);
+input a,b;
+output sum,carry;
+assign sum=(a^b);
+assign carry=(a&b);
+endmodulee
 ```
 HALF SUBTRACTOR
 ```
