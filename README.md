@@ -67,4 +67,11 @@ Logic Diagram for Half Subraction
 
 **Output/TIMING Waveform**
 
+Half Adder
+![Screenshot 2024-11-05 135530](https://github.com/user-attachments/assets/03163037-f615-4093-9123-e1e604d9cf7d)
+
+Half Subtractor
+![Screenshot 2024-11-05 140241](https://github.com/user-attachments/assets/429005fa-59a4-49c6-bb51-b5a3ad199383)
+
 **Result:**
+Program to design
